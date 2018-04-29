@@ -1,0 +1,5 @@
+Texture = ../../Assets/Texture/SunnyCubeMap.dds
+Texture = ../../Assets/Texture/texture01.jpg
+Texture = ../../Assets/Texture/texture01.png
+Texture = ../../Assets/Texture/steel.jpg
+Texture = ../../Assets/Texture/heart.png
